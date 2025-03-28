@@ -43,8 +43,8 @@ This is an **Arduino-based obstacle-avoiding robot** that uses an **HC-SR04 ultr
 3. If an obstacle is detected (<10 cm), the robot stops, rotates the servo motor to scan the surroundings, and determines a new direction.
 4. The robot moves backward slightly and turns left or right to avoid the obstacle.
 
-## Code:
-Check out the Arduino code in the repository for full implementation.
+## Code & Circuit Diagram:
+Check out the Arduino code and Circuit Diagram in the repository for full implementation.
 
 ## Future Improvements:
 - Adding **IR sensors** for better obstacle detection.
