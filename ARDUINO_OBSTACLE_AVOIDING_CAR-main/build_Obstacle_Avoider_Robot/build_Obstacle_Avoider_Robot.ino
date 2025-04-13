@@ -1,4 +1,3 @@
-
 #include <Servo.h> 
 Servo Myservo;
 #define trigPin 9           // Trig Pin Of HC-SR04
